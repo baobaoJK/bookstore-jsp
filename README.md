@@ -20,9 +20,9 @@
 
 ## 项目结构图
 
-![image-20240319133635317](.\images\image-20240319133635317.png)
+![image-20240319133635317](./images/image-20240319133635317.png)
 
-![image-20240322143938542](.\images\image-20240322143938542.png)
+![image-20240322143938542](./images/image-20240322143938542.png)
 
 
 
@@ -226,27 +226,31 @@
 
 #### 用户注册
 
-
+![register](./images/user/register.png)
 
 #### 用户登录
 
-
+![register](./images/user/login.png)
 
 #### 购书列表
 
+![register](./images/user/book-list.png)
 
+#### 购书页面
+
+![register](./images/user/buy-book.png)
 
 #### 购物车
 
-
+![register](./images/user/cart.png)
 
 #### 订单查看
 
-
+![register](./images/user/order.png)
 
 #### 信息修改
 
-
+![register](./images/user/user-info.png)
 
 ### 管理员用户
 
@@ -254,37 +258,33 @@
 
 #### 图书列表
 
-
+![register](./images/admin/book-list.png)
 
 #### 增加图书
 
-
+![register](./images/admin/add-book.png)
 
 #### 修改图书
 
-
+![register](./images/admin/update-book.png)
 
 #### 订单列表
 
-
-
-#### 查看订单
-
-
+![register](./images/admin/order-list.png)
 
 #### 修改订单
 
-
+![register](./images/admin/order.png)
 
 #### 用户列表
 
-
+![register](./images/admin/user-list.png)
 
 #### 查看用户
 
+![register](./images/admin/user.png)
 
 
-#### 修改用户
 
 
 
