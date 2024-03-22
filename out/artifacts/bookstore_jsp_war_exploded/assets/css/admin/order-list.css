@@ -1,0 +1,19 @@
+.order,
+.order-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    min-height: 100%;
+    background: url("/assets/images/background.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.navbar {
+    width: 100%;
+    margin-bottom: 32px;
+}
+
+.card {
+    margin-bottom: 32px;
+}
